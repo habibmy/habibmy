@@ -1,6 +1,7 @@
 <img src="https://github.com/habibmy/habibmy/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibmy&label=Profile%20views&color=0e75b6&style=flat" alt="habibmy" /> </p>
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning NextJS.
